@@ -1,8 +1,5 @@
 //Rasheed Santos(rasheed-santos)
 //CCOM 3033 - LAB01
-#include <iostream>
-
-int main()
 {
     std::cout<<"Hello World\n"
             <<"Hello Solar System\n"
@@ -14,7 +11,6 @@ int main()
             <<"This is a 3!\n"
             <<"This is a 4!\n"
             <<"This is a 5!\n";
-
     return 0;
 }
 
