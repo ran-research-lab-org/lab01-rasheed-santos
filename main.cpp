@@ -1,23 +1,19 @@
 //Rasheed Santos(rasheed-santos)
 //CCOM 3033 - LAB01
-{
-    std::cout<<"Hello World\n"
-            <<"Hello Solar System\n"
-            <<"Hello Universe\n"
-            <<"Hello Galaxy\n"
-            <<"Hello...\n"
-            <<"This is a 1!\n"
-            <<"This is a 2!\n"
-            <<"This is a 3!\n"
-            <<"This is a 4!\n"
-            <<"This is a 5!\n";
-    return 0;
+#include <iostream>
+
+int main() {
+  std::cout << "Hello World!" << std::endl;
+  std::cout << "Hello World!" << std::endl;
+  std::cout << "Hello Solar System!" << std::endl;
+  std::cout << "Hello Galaxy!" << std::endl;
+  std::cout << "Hello Universe!" << std::endl;
+  std::cout << "Hello ... ?" << std::endl;
+  std::cout << "This is a 1!" << std::endl;
+  std::cout << "This is a 2!" << std::endl;
+  std::cout << "This is a 3!" << std::endl;
+  std::cout << "This is a 4!" << std::endl;
+  std::cout << "This is a 5!" << std::endl;
+
+  return 0;
 }
-
-
- 
-
-
-
-
-
